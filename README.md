@@ -7,6 +7,7 @@ Index:
 - [How to do various things](./how_to/)
 - [Tutorials](./tutorials/)
 - [Talks](./talks/)
+- [Bookmarks](./bookmarks)
 - [Reference Materials](./reference_materials/)
 
 ---
