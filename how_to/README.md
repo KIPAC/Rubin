@@ -1,7 +1,7 @@
 # Collection of simple notes on how to do things that people found useful
 
 Index:
-- [Not really anything](./aaa.md)
+- [How to edit these pages](./how_to_edit_these_pages.md)
 
 ---
 
