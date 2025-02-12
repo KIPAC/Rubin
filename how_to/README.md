@@ -1,7 +1,7 @@
 # Collection of simple notes on how to do things that people found useful
 
 Index:
-- [Getting Started](./getting_started/)
+- [Not really anything](./aaa.md)
 
 ---
 

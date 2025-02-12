@@ -6,8 +6,8 @@ Index:
 - [Getting Started](./getting_started/)
 - [How to do various things](./how_to/)
 - [Tutorials](./tutorials/)
-- [Talks](./tutorials/)
-- [Reference Materials](./tutorials/)
+- [Talks](./talks/)
+- [Reference Materials](./reference_materials/)
 
 ---
 
