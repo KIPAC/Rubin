@@ -13,6 +13,7 @@ Index:
 - [Talks](./talks/)
 - [Bookmarks](./bookmarks)
 - [Reference Materials](./reference_materials/)
+- [Rubin Resources for Scientists landing page](./Resources_for_scientists/)
 
 ---
 
