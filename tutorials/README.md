@@ -15,3 +15,4 @@ Open Universe Tutorials
 
 Python / coding Tutorials:
 - [Converting a python notebook to a software package](https://kipac.github.io/NBToPackage/)
+- [Eric ranting about python](https://github.com/KIPAC/BootCamp/blob/master/Python/Python%20Tips.md)
