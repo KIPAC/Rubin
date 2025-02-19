@@ -11,6 +11,7 @@ Links to resource pages (Data access, software, onboarding, events schedules)
 - [OpenUniverse2024 (Roman–Rubin) tutorial for IRSA](https://caltech-ipac.github.io/irsa-tutorials/tutorials/firefly/OpenUniverse2024Preview_Firefly.html)
 - [Rubin Resources for Scientists landing page](https://rubinobservatory.org/for-scientists/resources/)
 - [Rubin Community Forum](https://community.lsst.org/)
+- [Rubin Science Assemblies - including recording links](https://rubinobservatory.org/for-scientists/events-deadlines/events-rsa)
 
 
 See also:
