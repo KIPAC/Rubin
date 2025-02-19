@@ -1,5 +1,5 @@
 
-This website is a colletion class for materials for people working on
+This website is a collecting place for useful materials for people working on
 Rubin observatory and Rubin-related science projects at KIPAC.
 
 As you can see from the very simple layout, we are not trying to do
