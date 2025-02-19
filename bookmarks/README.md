@@ -10,6 +10,7 @@ Links to resource pages (Data access, software, onboarding, events schedules)
 - [GCR Catalogs tutorial for DESC folks ](https://github.com/LSSTDESC/gcr-catalogs/blob/master/examples/GCRCatalogs%20Demo.ipynb)
 - [OpenUniverse2024 (Roman–Rubin) tutorial for IRSA](https://caltech-ipac.github.io/irsa-tutorials/tutorials/firefly/OpenUniverse2024Preview_Firefly.html)
 - [Rubin Resources for Scientists landing page](https://rubinobservatory.org/for-scientists/resources/)
+- [Rubin Community Forum](https://community.lsst.org/)
 
 
 See also:
