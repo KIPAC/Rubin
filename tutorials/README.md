@@ -12,3 +12,6 @@ DESC Collaboration Tutorials
   
 Open Universe Tutorials  
 - [OpenUniverse2024 (Roman–Rubin) tutorial for IRSA ](https://caltech-ipac.github.io/irsa-tutorials/tutorials/firefly/OpenUniverse2024Preview_Firefly.html)
+
+Python / coding Tutorials:
+- [Converting a python notebook to a software package](https://kipac.github.io/NBToPackage/)
