@@ -3,7 +3,7 @@
 In a NERSC terminal
 
 ```console
-source /global/cfs/cdirs/lsst/groups/PZ/DP1/pz/software/config/nersc_conda.bashrc
+source /global/cfs/cdirs/lsst/groups/PZ/DP1/software/config/nersc_conda.bashrc
 pz_miniconda3_setup
 conda create --name <new_environment_name> --clone rail-1.2
 ```
