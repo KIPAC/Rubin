@@ -22,7 +22,7 @@ In a NERSC terminal
 
 ```console
 cd <somewhere nice>
-git clone git@github.com:eacharles/rail_raruma.git
+git clone https://github.com/eacharles/rail_raruma.git
 ```
 
 Then look in ```rail_raruma/nb/DP1``` for notebooks
